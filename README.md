@@ -1,4 +1,4 @@
-# r-script
+# noderscript
 
 A simple little module for passing data from NodeJS to R (and back again).
 
@@ -6,13 +6,13 @@ Data passed from node is converted into a list and loaded into the R environment
 
 ### Installation
 ```
-npm install r-script
+npm install noderscript
 ```
 
 ### Example
 
 ```js
-var R = require("r-script");
+var R = require("noderscript");
 ```
 
 ##### Synchronous
